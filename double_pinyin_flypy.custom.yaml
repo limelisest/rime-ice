@@ -1,3 +1,19 @@
 patch:
   translator/dictionary: tcxz_rime_ice
   radical_reverse_lookup/dictionary: tcxz_rime_ice
+
+  # Incomplete lowercase codes should be completed by the Chinese translator.
+  translator/enable_completion: true
+  # In this layout, trailing b/q are the two initials that do not complete
+  # reliably on their own. Add narrow derived spellings instead of enabling all
+  # one-letter abbreviations, whose broader segmentation side effects are known.
+  "speller/algebra/@after last": derive/^([bq]).+$/$1/
+
+  # English remains available on exact matches, but no longer expands a prefix
+  # such as q to qBittorrent and outranks an unfinished Chinese syllable.
+  melt_eng/enable_completion: false
+  melt_eng/initial_quality: 0.2
+
+  # Two-or-more all-uppercase ASCII letters are an unambiguous English-input signal.
+  # Preserve the exact text as the first candidate instead of completing NI to NIB.
+  "engine/translators/@after last": lua_translator@*uppercase_raw
