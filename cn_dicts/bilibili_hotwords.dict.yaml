@@ -1,0 +1,153 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Fork-local curated Bilibili and Chinese internet vocabulary.
+# Maintained in limelisest/rime-ice; see others/docs/Custom-Dictionaries.md.
+# Default weight follows the upstream rime-ice convention.
+#
+---
+name: bilibili_hotwords
+version: "2026.08.10"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+阿姨压一压	a yi ya yi ya	100
+AMV	amv	100
+B站	b zhan	300
+百大UP主	bai da up zhu	200
+摆烂	bai lan	100
+拜年纪	bai nian ji	100
+百万播放	bai wan bo fang	100
+百万调音师	bai wan tiao yin shi	100
+班味	ban wei	100
+倍速播放	bei su bo fang	100
+绷不住	beng bu zhu	100
+哔哩哔哩	bi li bi li	300
+哔哩哔哩弹幕网	bi li bi li dan mu wang	200
+哔哩哔哩干杯	bi li bi li gan bei	200
+哔哩哔哩跨年晚会	bi li bi li kua nian wan hui	100
+补档	bu dang	100
+承包首页	cheng bao shou ye	100
+吃谷	chi gu	100
+充电	chong dian	100
+充电计划	chong dian ji hua	100
+厨力	chu li	100
+创作激励	chuang zuo ji li	100
+创作激励计划	chuang zuo ji li ji hua	100
+脆皮大学生	cui pi da xue sheng	100
+大会员	da hui yuan	100
+大佬	da lao	100
+弹幕	dan mu	100
+弹幕打卡	dan mu da ka	100
+弹幕护体	dan mu hu ti	100
+弹幕礼仪	dan mu li yi	100
+弹幕列表	dan mu lie biao	100
+弹幕密度	dan mu mi du	100
+弹幕签到	dan mu qian dao	100
+点赞投币收藏	dian zan tou bi shou cang	100
+电子布洛芬	dian zi bu luo fen	100
+电子榨菜	dian zi zha cai	100
+动态	dong tai	100
+二创	er chuang	100
+二创视频	er chuang shi pin	100
+番剧	fan ju	100
+粉丝勋章	fen si xun zhang	100
+高能预警	gao neng yu jing	100
+公主请	gong zhu qing	100
+谷子	gu zi	100
+谷子经济	gu zi jing ji	100
+关注列表	guan zhu lie biao	100
+鬼畜	gui chu	100
+鬼畜区	gui chu qu	100
+鬼畜全明星	gui chu quan ming xing	100
+国创	guo chuang	100
+红温	hong wen	100
+舰长	jian zhang	100
+拒同担	ju tong dan	100
+绝绝子	jue jue zi	100
+考古	kao gu	100
+烤肉	kao rou	100
+烤肉组	kao rou zu	100
+课代表	ke dai biao	100
+空降	kong jiang	100
+空降坐标	kong jiang zuo biao	100
+跨年晚会	kua nian wan hui	100
+泪目	lei mu	100
+录播	lu bo	100
+录播组	lu bo zu	100
+MAD	mad	100
+梦幻联动	meng huan lian dong	100
+萌新	meng xin	100
+名场面	ming chang mian	100
+命运的齿轮	ming yun de chi lun	100
+MMD	mmd	100
+内卷	nei juan	100
+你币有了	ni bi you le	100
+评论区	ping lun qu	100
+破防	po fang	100
+泼天的富贵	po tian de fu gui	100
+前方高能	qian fang gao neng	100
+切片	qie pian	100
+情绪价值	qing xu jia zhi	100
+全程高能	quan cheng gao neng	100
+热评	re ping	100
+人力VOCALOID	ren li vocaloid	100
+三连	san lian	100
+SC	sc	100
+上舰	shang jian	100
+稍后再看	shao hou zai kan	100
+社死	she si	100
+神评	shen ping	100
+省流	sheng liu	100
+省流助手	sheng liu zhu shou	100
+生肉	sheng rou	100
+失效视频	shi xiao shi pin	100
+收藏夹	shou cang jia	100
+首页通知书	shou ye tong zhi shu	100
+首页推荐	shou ye tui jian	100
+熟肉	shu rou	100
+叔叔我啊	shu shu wo a	100
+栓Q	shuan q	100
+水灵灵地	shui ling ling di	100
+松弛感	song chi gan	100
+泰裤辣	tai ku la	100
+躺平	tang ping	100
+提督	ti du	100
+痛包	tong bao	100
+痛车	tong che	100
+同担	tong dan	100
+痛柜	tong gui	100
+投币	tou bi	100
+偷感	tou gan	100
+偷感很重	tou gan hen zhong	100
+推活	tui huo	100
+UP主	up zhu	300
+挖坟	wa fen	100
+下次一定	xia ci yi ding	100
+夏日毕业歌会	xia ri bi ye ge hui	100
+显眼包	xian yan bao	100
+小电视	xiao dian shi	100
+醒目留言	xing mu liu yan	100
+遥遥领先	yao yao ling xian	100
+爷青回	ye qing hui	100
+爷青结	ye qing jie	100
+野生课代表	ye sheng ke dai biao	100
+野生字幕君	ye sheng zi mu jun	100
+一键三连	yi jian san lian	100
+音MAD	yin mad	100
+硬币	ying bi	100
+硬控	ying kong	100
+云视听小电视	yun shi ting xiao dian shi	100
+云通关	yun tong guan	100
+云玩家	yun wan jia	100
+镇站之宝	zhen zhan zhi bao	100
+直播切片	zhi bo qie pian	100
+置顶评论	zhi ding ping lun	100
+指路	zhi lu	100
+主打一个	zhu da yi ge	100
+自动连播	zi dong lian bo	100
+字幕君	zi mu jun	100
+总督	zong du	100
+最美的夜	zui mei de ye	100
+尊嘟假嘟	zun du jia du	100

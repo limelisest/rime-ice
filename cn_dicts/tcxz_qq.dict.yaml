@@ -1,0 +1,630 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Generated from the fork owner's private chat corpus.
+# Personal identifiers and source-message text are not included.
+# URLs, CQ payloads, account-like long tokens, commands, and credential hints were excluded.
+# Frequency-derived weights are multiplied by five for personal-dictionary priority.
+# Source messages: 4001; dictionary entries: 614.
+#
+---
+name: tcxz_qq
+version: "2026.08.10"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+虾米	xia mi	335100
+下班	xia ban	255100
+干嘛	gan ma	240100
+尾巴	wei ba	215100
+上班	shang ban	190100
+不行	bu xing	170100
+笑死	xiao si	167600
+想下班了	xiang xia ban le	152700
+平台	ping tai	140100
+笑死我了	xiao si wo le	132700
+lyly	lyly	125200
+我不行了	wo bu xing le	122700
+东西	dong xi	120100
+看看	kan kan	120100
+匣子	xia zi	115100
+猫爷	mao ye	115100
+电脑	dian nao	115100
+emotepark	emotepark	105450
+usage	usage	105250
+rin	rin	105150
+游戏	you xi	105100
+电源	dian yuan	105100
+提示	ti shi	100100
+模型	mo xing	100100
+沙丁鱼	sha ding yu	95150
+回复	hui fu	95100
+手机	shou ji	90100
+试试	shi shi	90100
+问题	wen ti	90100
+虾米子在干嘛	xia mi zi zai gan ma	87800
+不是	bu shi	82600
+天才	tian cai	80100
+摸鱼	mo yu	80100
+突然	tu ran	80100
+还好	hai hao	80100
+适配	shi pei	80100
+BUG	bug	75150
+有没有	you mei you	75150
+喜欢	xi huan	75100
+表情	biao qing	75100
+说话	shuo hua	75100
+吃什么	chi shen me	72650
+代码	dai ma	70100
+任务	ren wu	70100
+功能	gong neng	70100
+可爱	ke ai	70100
+无敌	wu di	70100
+时间	shi jian	70100
+牙齿	ya chi	70100
+羡慕	xian mu	70100
+不想	bu xiang	65100
+公司	gong si	65100
+内存	nei cun	65100
+厅长	ting zhang	65100
+好爽	hao shuang	65100
+开机	kai ji	65100
+限制	xian zhi	65100
+黑夜	hei ye	65100
+我亲	wo qin	62600
+Windows	windows	60350
+mwhy	mwhy	60200
+不够	bu gou	60100
+图片	tu pian	60100
+消息	xiao xi	60100
+溃疡	kui yang	60100
+记忆	ji yi	60100
+铃酱	ling jiang	60100
+哦漏	o lou	57600
+没有	mei you	57600
+长方体	chang fang ti	55150
+不了	bu liao	55100
+名字	ming zi	55100
+完全	wan quan	55100
+小猫	xiao mao	55100
+工作	gong zuo	55100
+微软	wei ruan	55100
+想要	xiang yao	55100
+玩意	wan yi	55100
+不知道	bu zhi dao	52650
+我的呢	wo de ne	52650
+无敌了	wu di le	52650
+cursor	cursor	50300
+gpt	gpt	50150
+小萝莉	xiao luo li	50150
+价格	jia ge	50100
+位置	wei zhi	50100
+使用	shi yong	50100
+加班	jia ban	50100
+发送	fa song	50100
+小时	xiao shi	50100
+思考	si kao	50100
+显卡	xian ka	50100
+测试	ce shi	50100
+结果	jie guo	50100
+不到啊	bu dao a	47650
+你吃	ni chi	47600
+对啊	dui a	47600
+deepseek	deepseek	45400
+xyzy	xyzy	45200
+修改	xiu gai	45100
+发现	fa xian	45100
+后台	hou tai	45100
+块钱	kuai qian	45100
+小孩	xiao hai	45100
+师爷	shi ye	45100
+忘记	wang ji	45100
+想到	xiang dao	45100
+文件	wen jian	45100
+深圳	shen zhen	45100
+萝莉	luo li	45100
+难受	nan shou	45100
+需要	xu yao	45100
+macbook	macbook	40350
+byd	byd	40150
+不住	bu zhu	40100
+交给	jiao gei	40100
+仓库	cang ku	40100
+估计	gu ji	40100
+办法	ban fa	40100
+地铁	di tie	40100
+寻思	xin si	40100
+意味	yi wei	40100
+才能	cai neng	40100
+指令	zhi ling	40100
+显示	xian shi	40100
+睡觉	shui jiao	40100
+空调	kong tiao	40100
+虚拟	xu ni	40100
+触发	chu fa	40100
+记得	ji de	40100
+账号	zhang hao	40100
+什么	shen me	37600
+opencode	opencode	35400
+napcat	napcat	35300
+flash	flash	35250
+killa	killa	35250
+apex	apex	35200
+list	list	35200
+TCP	tcp	35150
+mac	mac	35150
+事情	shi qing	35100
+免费	mian fei	35100
+变态	bian tai	35100
+哥们	ge men	35100
+回来	hui lai	35100
+基本	ji ben	35100
+好吃	hao chi	35100
+导致	dao zhi	35100
+希望	xi wang	35100
+开关	kai guan	35100
+开摸	kai mo	35100
+快递	kuai di	35100
+打算	da suan	35100
+没事	mei shi	35100
+疯狂	feng kuang	35100
+科夫	ke fu	35100
+糊糊	hu hu	35100
+网站	wang zhan	35100
+自动	zi dong	35100
+记录	ji lu	35100
+豆包	dou bao	35100
+麻烦	ma fan	35100
+虾米子说句话	xia mi zi shuo ju hua	32800
+你知道吗	ni zhi dao ma	32700
+我不到啊	wo bu dao a	32700
+何意味	he yi wei	32650
+完了	wan le	32600
+我草	wo cao	32600
+Reconnecting	reconnecting	30600
+random	random	30300
+codex	codex	30250
+GPT	gpt	30150
+Rin	rin	30150
+SDK	sdk	30150
+add	add	30150
+air	air	30150
+bug	bug	30150
+vrc	vrc	30150
+内存条	nei cun tiao	30150
+布洛芬	bu luo fen	30150
+注册表	zhu ce biao	30150
+看不到	kan bu dao	30150
+麦克风	mai ke feng	30150
+下载	xia zai	30100
+便宜	pian yi	30100
+回去	hui qu	30100
+回家	hui jia	30100
+地方	di fang	30100
+垃圾	la ji	30100
+声音	sheng yin	30100
+夕池	xi chi	30100
+奶茶	nai cha	30100
+小心	xiao xin	30100
+属于	shu yu	30100
+工位	gong wei	30100
+意思	yi si	30100
+报销	bao xiao	30100
+推送	tui song	30100
+搬家	ban jia	30100
+支持	zhi chi	30100
+断电	duan dian	30100
+晚安	wan an	30100
+概率	gai lv	30100
+没买	mei mai	30100
+海关	hai guan	30100
+点名	dian ming	30100
+睡着	shui zhao	30100
+神秘	shen mi	30100
+算了	suan le	30100
+系统	xi tong	30100
+编译	bian yi	30100
+群友	qun you	30100
+衣服	yi fu	30100
+西瓜	xi gua	30100
+重置	zhong zhi	30100
+键盘	jian pan	30100
+隔音	ge yin	30100
+鲨鱼	sha yu	30100
+他在说什么啊	ta zai shuo shen me a	27800
+受不了了	shou bu liao le	27700
+你别说	ni bie shuo	27650
+吓哭了	xia ku le	27650
+好热	hao re	27600
+gemini	gemini	25300
+Linux	linux	25250
+booth	booth	25250
+GLM5	glm5	25200
+jrrp	jrrp	25200
+虚拟内存	xu ni nei cun	25200
+ios	ios	25150
+new	new	25150
+wok	wok	25150
+分辨率	fen bian lv	25150
+显示器	xian shi qi	25150
+资本家	zi ben jia	25150
+一大	yi da	25100
+下雨	xia yu	25100
+不理	bu li	25100
+个人	ge ren	25100
+云盘	yun pan	25100
+传到	chuan dao	25100
+做到	zuo dao	25100
+共享	gong xiang	25100
+决定	jue ding	25100
+刷到	shua dao	25100
+压力	ya li	25100
+双休	shuang xiu	25100
+吓哭	xia ku	25100
+启动	qi dong	25100
+命运	ming yun	25100
+复杂	fu za	25100
+复读	fu du	25100
+大家	da jia	25100
+好困	hao kun	25100
+好笑	hao xiao	25100
+子弹	zi dan	25100
+完蛋	wan dan	25100
+导入	dao ru	25100
+小米	xiao mi	25100
+建议	jian yi	25100
+开不	kai bu	25100
+开发	kai fa	25100
+微信	wei xin	25100
+怀疑	huai yi	25100
+意义	yi yi	25100
+慈悲	ci bei	25100
+打开	da kai	25100
+扣钱	kou qian	25100
+折叠	zhe die	25100
+拷打	kao da	25100
+控制	kong zhi	25100
+推荐	tui jian	25100
+插件	cha jian	25100
+改成	gai cheng	25100
+数据	shu ju	25100
+整理	zheng li	25100
+机器	ji qi	25100
+杂鱼	za yu	25100
+根管	gen guan	25100
+模式	mo shi	25100
+沃趣	wo qu	25100
+没到	mei dao	25100
+没用	mei yong	25100
+没试	mei shi	25100
+洗澡	xi zao	25100
+洛克	luo ke	25100
+版本	ban ben	25100
+牙医	ya yi	25100
+状态	zhuang tai	25100
+登录	deng lu	25100
+眼睛	yan jing	25100
+管理	guan li	25100
+维斯	wei si	25100
+美国	mei guo	25100
+群聊	qun liao	25100
+聊天	liao tian	25100
+脚本	jiao ben	25100
+要求	yao qiu	25100
+视频	shi pin	25100
+许愿	xu yuan	25100
+诈骗	zha pian	25100
+进去	jin qu	25100
+远程	yuan cheng	25100
+迟到	chi dao	25100
+适合	shi he	25100
+配置	pei zhi	25100
+重生	chong sheng	25100
+量化	liang hua	25100
+额度	e du	25100
+鸣声	ming sheng	25100
+傻逼微软	sha bi wei ruan	22700
+对的对的	dui de dui de	22700
+我要这个	wo yao zhe ge	22700
+是这样的	shi zhe yang de	22700
+好可怕	hao ke pa	22650
+我知道	wo zhi dao	22650
+气笑了	qi xiao le	22650
+羡慕了	xian mu le	22650
+还真是	hai zhen shi	22650
+不对	bu dui	22600
+亲死	qin si	22600
+但是	dan shi	22600
+哈哈	ha ha	22600
+好贵	hao gui	22600
+我不	wo bu	22600
+我去	wo qu	22600
+牛逼	niu bi	22600
+电吗	dian ma	22600
+确实	que shi	22600
+还行	hai xing	22600
+送我	song wo	22600
+forward	forward	20350
+HyperV	hyperv	20300
+Rynxis	rynxis	20300
+linux	linux	20250
+reply	reply	20250
+sleep	sleep	20250
+APEX	apex	20200
+N100	n100	20200
+Next	next	20200
+auto	auto	20200
+boss	boss	20200
+grok	grok	20200
+roll	roll	20200
+草台班子	cao tai ban zi	20200
+账号密码	zhang hao mi ma	20200
+NAS	nas	20150
+VRC	vrc	20150
+log	log	20150
+pro	pro	20150
+the	the	20150
+tui	tui	20150
+实验室	shi yan shi	20150
+尼基塔	ni ji ta	20150
+带不动	dai bu dong	20150
+意味着	yi wei zhe	20150
+挺好用	ting hao yong	20150
+服务器	fu wu qi	20150
+管理费	guan li fei	20150
+试一下	shi yi xia	20150
+黑名单	hei ming dan	20150
+上海	shang hai	20100
+上门	shang men	20100
+不吃	bu chi	20100
+不愧	bu kui	20100
+不赖	bu lai	20100
+不错	bu cuo	20100
+买点	mai dian	20100
+亮色	liang se	20100
+企业	qi ye	20100
+优先	you xian	20100
+伦伦	lun lun	20100
+健身	jian shen	20100
+兄弟	xiong di	20100
+全部	quan bu	20100
+公寓	gong yu	20100
+凉雨	liang yu	20100
+切割	qie ge	20100
+列表	lie biao	20100
+到头	dao tou	20100
+加载	jia zai	20100
+动作	dong zuo	20100
+卡带	ka dai	20100
+卧槽	wo cao	20100
+原价	yuan jia	20100
+双拼	shuang pin	20100
+发生	fa sheng	20100
+发错	fa cuo	20100
+叫做	jiao zuo	20100
+可怜	ke lian	20100
+吃饭	chi fan	20100
+唤醒	huan xing	20100
+喷喷	pen pen	20100
+固定	gu ding	20100
+图标	tu biao	20100
+圆圆	yuan yuan	20100
+处理	chu li	20100
+失败	shi bai	20100
+头像	tou xiang	20100
+女友	nv you	20100
+好玩	hao wan	20100
+好看	hao kan	20100
+嫌弃	xian qi	20100
+孩子	hai zi	20100
+密码	mi ma	20100
+对接	dui jie	20100
+对面	dui mian	20100
+小云	xiao yun	20100
+小鱼	xiao yu	20100
+师傅	shi fu	20100
+干完	gan wan	20100
+床上	chuang shang	20100
+开头	kai tou	20100
+开源	kai yuan	20100
+录入	lu ru	20100
+忌口	ji kou	20100
+情况	qing kuang	20100
+惠州	hui zhou	20100
+成功	cheng gong	20100
+我用	wo yong	20100
+扩展	kuo zhan	20100
+拉拉	la la	20100
+拉斯	la si	20100
+拿到	na dao	20100
+换成	huan cheng	20100
+接口	jie kou	20100
+提交	ti jiao	20100
+支付	zhi fu	20100
+改名	gai ming	20100
+放假	fang jia	20100
+效果	xiao guo	20100
+敏感	min gan	20100
+教练	jiao lian	20100
+方式	fang shi	20100
+无限	wu xian	20100
+映射	ying she	20100
+服务	fu wu	20100
+本质	ben zhi	20100
+权限	quan xian	20100
+框架	kuang jia	20100
+椅子	yi zi	20100
+模块	mo kuai	20100
+欺负	qi fu	20100
+比如	bi ru	20100
+求索	qiu suo	20100
+没法	mei fa	20100
+泡沫	pao mo	20100
+消炎	xiao yan	20100
+深度	shen du	20100
+炸鸡	zha ji	20100
+牙龈	ya yin	20100
+王国	wang guo	20100
+玩家	wan jia	20100
+用户	yong hu	20100
+用来	yong lai	20100
+申请	shen qing	20100
+电池	dian chi	20100
+电费	dian fei	20100
+画质	hua zhi	20100
+硬盘	ying pan	20100
+离谱	li pu	20100
+穿透	chuan tou	20100
+符合	fu he	20100
+经典	jing dian	20100
+统计	tong ji	20100
+绷住	beng zhu	20100
+编程	bian cheng	20100
+网络	wang luo	20100
+群里	qun li	20100
+联动	lian dong	20100
+能用	neng yong	20100
+脓包	nong bao	20100
+苹果	ping guo	20100
+补过	bu guo	20100
+角色	jue se	20100
+解决	jie jue	20100
+认证	ren zheng	20100
+说好	shuo hao	20100
+读取	du qu	20100
+调用	diao yong	20100
+资料	zi liao	20100
+超过	chao guo	20100
+转发	zhuan fa	20100
+转账	zhuan zhang	20100
+输入	shu ru	20100
+进来	jin lai	20100
+选择	xuan ze	20100
+速度	su du	20100
+配额	pei e	20100
+重启	chong qi	20100
+重新	chong xin	20100
+钳子	qian zi	20100
+除湿	chu shi	20100
+项目	xiang mu	20100
+顺丰	shun feng	20100
+领导	ling dao	20100
+我还能吃疯狂星期四吗	wo hai neng chi feng kuang xing qi si ma	18000
+直接变成流氓软件了	zhi jie bian cheng liu mang ruan jian le	17950
+你不要命了呜呜呜	ni bu yao ming le wu wu wu	17900
+我忌口还没到一周	wo ji kou hai mei dao yi zhou	17900
+维斯卡你不要命了	wei si ka ni bu yao ming le	17900
+虾米子我想下班了	xia mi zi wo xiang xia ban le	17900
+匣子我想下班了	xia zi wo xiang xia ban le	17850
+又摸一天的鱼	you mo yi tian de yu	17800
+我活到头了吗	wo huo dao tou le ma	17800
+有没有推荐的	you mei you tui jian de	17800
+也不是不行	ye bu shi bu xing	17750
+今晚吃什么	jin wan chi shen me	17750
+匣子在干嘛	xia zi zai gan ma	17750
+我都在思考	wo dou zai si kao	17750
+何意味啊	he yi wei a	17700
+先洗个澡	xian xi ge zao	17700
+哈哈哈哈	ha ha ha ha	17700
+太变态了	tai bian tai le	17700
+洗个澡来	xi ge zao lai	17700
+经典环节	jing dian huan jie	17700
+绷不住了	beng bu zhu le	17700
+美国豆包	mei guo dou bao	17700
+这是什么	zhe shi shen me	17700
+那我的呢	na wo de ne	17700
+ServerQuery	serverquery	15550
+PostgreSQL	postgresql	15500
+tsumikiovo	tsumikiovo	15500
+TeamSpeak	teamspeak	15450
+Deepseek	deepseek	15400
+WebQuery	webquery	15400
+internal	internal	15400
+Unknown	unknown	15350
+minimax	minimax	15350
+openwrt	openwrt	15350
+problem	problem	15350
+runtime	runtime	15350
+session	session	15350
+test123	test123	15350
+windows	windows	15350
+working	working	15350
+Agents	agents	15300
+Cursor	cursor	15300
+Gemini	gemini	15300
+SQLite	sqlite	15300
+before	before	15300
+finish	finish	15300
+hhhhhh	hhhhhh	15300
+relink	relink	15300
+resume	resume	15300
+system	system	15300
+webdav	webdav	15300
+Steam	steam	15250
+agent	agent	15250
+could	could	15250
+error	error	15250
+ff14	ff14	15200
+flag	flag	15200
+n100	n100	15200
+plum	plum	15200
+qwen	qwen	15200
+raid	raid	15200
+text	text	15200
+todo	todo	15200
+visa	visa	15200
+历史记录	li shi ji lu	15200
+口腔溃疡	kou qiang kui yang	15200
+开始菜单	kai shi cai dan	15200
+检查一下	jian cha yi xia	15200
+流氓软件	liu mang ruan jian	15200
+配置文件	pei zhi wen jian	15200
+阿莫西林	a mo xi lin	15200
+APP	app	15150
+GLM	glm	15150
+PMC	pmc	15150
+TUI	tui	15150
+frp	frp	15150
+hit	hit	15150
+neo	neo	15150
+not	not	15150
+pmc	pmc	15150
+sol	sol	15150
+tkf	tkf	15150
+why	why	15150
+买不起	mai bu qi	15150
+像不像	xiang bu xiang	15150
+办公室	ban gong shi	15150
+嘉立创	jia li chuang	15150
+城中村	cheng zhong cun	15150
+塔又洛	ta you luo	15150
+复杂度	fu za du	15150
+女朋友	nv peng you	15150
+好了吗	hao le ma	15150
+局域网	ju yu wang	15150
+工作量	gong zuo liang	15150
+开了个	kai le ge	15150
+开玩笑	kai wan xiao	15150
+弹药箱	dan yao xiang	15150
+打不开	da bu kai	15150
+数据库	shu ju ku	15150
+文件夹	wen jian jia	15150
+无表情	wu biao qing	15150
+机器人	ji qi ren	15150
+消炎药	xiao yan yao	15150
+游戏卡	you xi ka	15150
+源文件	yuan wen jian	15150
+玩刚蕉	wan gang jiao	15150
+玩游戏	wan you xi	15150
+电源线	dian yuan xian	15150
+电脑店	dian nao dian	15150
+看不得	kan bu de	15150
+睡不着	shui bu zhe	15150
+神经病	shen jing bing	15150
+程序员	cheng xu yuan	15150
+端出来	duan chu lai	15150
+认证费	ren zheng fei	15150
+负责人	fu ze ren	15150
+踢皮球	ti pi qiu	15150
+麦当劳	mai dang lao	15150

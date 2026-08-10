@@ -8,3 +8,5 @@ recipe:
 install_files: >-
   radical_pinyin.dict.yaml
   cn_dicts/*.*
+  *.custom.yaml
+  tcxz_rime_ice.dict.yaml

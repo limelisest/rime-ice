@@ -1,0 +1,187 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Fork-local curated virtual-streamer vocabulary.
+# Maintained in limelisest/rime-ice; see others/docs/Custom-Dictionaries.md.
+# Default weight follows the upstream rime-ice convention.
+#
+---
+name: vtuber
+version: "2026.08.10"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+嘉然	250	100
+虚拟主播	300	100
+阿萨	a sa	100
+阿萨Aza	a sa aza	100
+阿萨小助手	a sa xiao zhu shou	100
+A手	a shou	100
+阿梓	a zi	100
+阿梓从小就很可爱	a zi cong xiao jiu hen ke ai	100
+艾因	ai yin	100
+艾因Eine	ai yin eine	100
+安洁卡特莉娜	an jie ka te li na	100
+A-SOUL	asoul	250
+爸爸建模	ba ba jian mo	100
+白上吹雪	bai shang chui xue	100
+绊爱	ban ai	100
+扳机社	ban ji she	100
+宝钟玛琳	bao zhong ma lin	100
+贝极星	bei ji xing	100
+贝拉	bei la	100
+毕业	bi ye	100
+毕业回	bi ye hui	100
+博衣小夜璃	bo yi xiao ye li	100
+不破湊	bu po cou	100
+彩虹社	cai hong she	100
+出道	chu dao	100
+初配信	chu pei xin	100
+椎名唯华	chui ming wei hua	100
+大空昴	da kong mao	100
+单推	dan tui	100
+DD	dd	100
+掉舰	diao jian	100
+顶碗人	ding wan ren	100
+动捕	dong bu	100
+东雪莲	dong xue lian	100
+多推	duo tui	100
+二维模型	er wei mo xing	100
+翻唱	fan chang	100
+房间展示	fang jian zhan shi	100
+粉丝名	fen si ming	100
+风真伊吕波	feng zhen yi lv bo	100
+伏见学	fu jian xue	100
+噶呜古拉	ga wu gu la	100
+歌回	ge hui	100
+个人势	ge ren shi	100
+葛叶	ge ye	100
+古石比久	gu shi bi jiu	100
+哈珂斯贝尔丝	ha ke si bei er si	100
+Hololive	hololive	250
+Holostars	holostars	100
+红色SC	hong se sc	100
+华生阿米莉亚	hua sheng a mi li ya	100
+华夜	hua ye	100
+花园猫	hua yuan mao	100
+花园Serena	hua yuan serena	100
+会限	hui xian	100
+会员限定	hui yuan xian ding	100
+魂号	hun hao	100
+IRyS	irys	100
+纪念回	ji nian hui	100
+甲斐田晴	jia fei tian qing	100
+珈乐	jia le	100
+嘉然小姐	jia ran xiao jie	100
+嘉心糖	jia xin tang	100
+剑持刀也	jian chi dao ye	100
+角卷绵芽	jiao juan mian ya	100
+九十九佐命	jiu shi jiu zuo ming	100
+拉普拉斯	la pu la si	100
+兰音	lan yin	100
+立绘	li hui	100
+莉泽赫露艾斯塔	li ze he lu ai si ta	100
+联动	lian dong	100
+联动回	lian dong hui	100
+泠鸢	ling yuan	100
+泠鸢yousa	ling yuan yousa	100
+Live2D	live2d	100
+Live2D建模	live2d jian mo	100
+露早	lu zao	100
+洛洛萝	luo luo luo	100
+罗伊	luo yi	100
+罗伊Roi	luo yi roi	100
+妈妈画师	ma ma hua shi	100
+猫雷Nyaru	mao lei nyaru	100
+猫又小粥	mao you xiao zhou	100
+米娅	mi ya	100
+面捕	mian bu	100
+棉花糖	mian hua tang	100
+咩栗	mie li	100
+模型展示	mo xing zhan shi	100
+耐久直播	nai jiu zhi bo	100
+乃琳	nai lin	100
+奶淇琳	nai qi lin	100
+皮套	pi tao	100
+皮套人	pi tao ren	100
+七海	qi hai	100
+七海Nana7mi	qi hai nana7mi	100
+七诗无名	qi shi wu ming	100
+企业势	qi ye shi	100
+前世	qian shi	100
+全身动捕	quan shen dong bu	100
+瑞芙	rui fu	100
+瑞芙Rhea	rui fu rhea	100
+三维模型	san wei mo xing	100
+森美声	sen mei sheng	100
+沙花叉克萝耶	sha hua cha ke luo ye	100
+莎乐美	sha le mei	100
+扇宝	shan bao	100
+社团势	she tuan shi	100
+神乐七奈	shen le qi nai	100
+神乐Mea	shen yue mea	100
+生日回	sheng ri hui	100
+狮白牡丹	shi bai mu dan	100
+时乃空	shi nai kong	100
+雫るる	shizuku lulu	100
+手元配信	shou yuan pei xin	100
+双推	shuang tui	100
+四禧丸子	si xi wan zi	100
+塔菲	ta fei	100
+桃铃音音	tao ling yin yin	100
+笹木咲	ti mu xiao	100
+恬豆	tian dou	100
+天音彼方	tian yin bi fang	100
+同接	tong jie	100
+同接数	tong jie shu	100
+同时视听	tong shi shi ting	100
+凸待	tu dai	100
+兔田佩克拉	tu tian pei ke la	100
+推特空间	tui te kong jian	100
+VirtuaReal	virtualreal	100
+VirtuaUnion	virtuaunion	100
+VTuber	vtuber	300
+Vtuber	vtuber	250
+物述有栖	wu shu you qi	100
+箱推	xiang tui	100
+向晚	xiang wan	100
+小可学妹	xiao ke xue mei	100
+小鸟游琪亚拉	xiao niao you qi ya la	100
+小柔	xiao rou	100
+新衣回	xin yi hui	100
+新衣装	xin yi zhuang	100
+星川莎拉	xing chuan sha la	100
+星街彗星	xing jie hui xing	100
+星瞳	xing tong	100
+星瞳啵啵	xing tong bo bo	100
+戌亥床	xu hai chuang	100
+虚拟次元计划	xu ni ci yuan ji hua	100
+虚拟偶像	xu ni ou xiang	100
+虚拟UP主	xu ni up zhu	100
+虚拟艺人	xu ni yi ren	100
+虚拟YouTuber	xu ni youtuber	100
+戌神沁音	xu shen qin yin	100
+虚研社	xu yan she	100
+雪花菈米	xue hua la mi	100
+叶	ye	100
+壹百满天原莎乐美	yi bai man tian yuan sha le mei	100
+一个魂	yi ge hun	100
+乙女音	yi nv yin	100
+一伊那尔栖	yi yi na er qi	100
+樱巫女	ying wu nv	100
+永雏塔菲	yong chu ta fei	100
+游戏回	you xi hui	100
+又一充电中	you yi chong dian zhong	100
+原创曲	yuan chuang qu	100
+月之美兔	yue zhi mei tu	100
+杂谈	za tan	100
+杂谈回	za tan hui	100
+早稻叽	zao dao ji	100
+枝江	zhi jiang	100
+枝江偶像	zhi jiang ou xiang	100
+枝江往事	zhi jiang wang shi	100
+中之人	zhong zhi ren	100
+周年纪念	zhou nian ji nian	100
+周央珊瑚	zhou yang shan hu	100
+转生	zhuan sheng	100

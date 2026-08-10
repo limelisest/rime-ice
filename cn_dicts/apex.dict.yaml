@@ -1,0 +1,193 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Fork-local curated Apex Legends vocabulary.
+# Maintained in limelisest/rime-ice; see others/docs/Custom-Dictionaries.md.
+# Default weight follows the upstream rime-ice convention.
+#
+---
+name: apex
+version: "2026.08.10"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+阿尔法基地	a er fa ji di	100
+艾许	ai xu	100
+奥林匹斯	ao lin pi si	100
+獒犬	ao quan	100
+APEX	apex	300
+Apex Legends	apex legends	300
+APEX英雄	apex ying xiong	400
+Apex英雄	apex ying xiong	300
+靶场	ba chang	100
+白甲	bai jia	100
+白金	bai jin	100
+白银	bai yin	100
+班加罗尔	ban jia luo er	100
+暴雷	bao lei	100
+爆炸物仓	bao zha wu cang	100
+暴走轻机枪	bao zou qing ji qiang	100
+变幻	bian huan	100
+补枪	bu qiang	100
+补人	bu ren	100
+菜鸟	cai niao	100
+残月	can yue	100
+CAR冲锋枪	car chong feng qiang	100
+充能步枪	chong neng bu qiang	100
+充能塔	chong neng ta	100
+处决	chu jue	100
+传送门	chuan song men	100
+催化姬	cui hua ji	100
+大电	da dian	100
+大师	da shi	100
+弹道	dan dao	100
+单排	dan pai	100
+倒地	dao di	100
+倒计时	dao ji shi	100
+导线	dao xian	100
+低打高	di da gao	100
+地平线	di ping xian	100
+电弧星	dian hu xing	100
+电能冲锋枪	dian neng chong feng qiang	100
+电网	dian wang	100
+调查信标	diao cha xin biao	100
+独狼	du lang	100
+毒气罐	du qi guan	100
+毒圈	du quan	100
+对枪	dui qiang	100
+恶灵	e ling	100
+发射场	fa she chang	100
+防护穹顶	fang hu qiong ding	100
+风暴捕手	feng bao bu shou	100
+风暴点	feng bao dian	100
+凤凰治疗包	feng huang zhi liao bao	100
+疯玛吉	feng ma ji	100
+复仇女神	fu chou nv shen	100
+复活信标	fu huo xin biao	100
+扶人	fu ren	100
+复制材料	fu zhi cai liao	100
+复制器	fu zhi qi	100
+辅助手枪	fu zhu shou qiang	100
+高打低	gao da di	100
+隔离区	ge li qu	100
+隔热板	ge re ban	100
+哈蒙德实验室	ha meng de shi yan shi	100
+哈沃克步枪	ha wo ke bu qiang	100
+赫姆洛克	he mu luo ke	100
+和平捍卫者	he ping han wei zhe	100
+黑市	hei shi	100
+红甲	hong jia	100
+护盾电池	hu dun dian chi	100
+花园	hua yuan	100
+幻象	huan xiang	100
+环形控制台	huan xing kong zhi tai	100
+黄金	huang jin	100
+混合模式	hun he mo shi	100
+IMC军械库	imc jun xie ku	100
+击倒	ji dao	100
+击倒护盾	ji dao hu dun	100
+集火	ji huo	100
+架枪	jia qiang	100
+检查点	jian cha dian	100
+金包	jin bao	100
+金盾	jin dun	100
+进化护盾	jin hua hu dun	100
+金甲	jin jia	100
+金头	jin tou	100
+竞技场	jing ji chang	100
+决赛圈	jue sai quan	100
+卡特莉丝	ka te li si	100
+克雷贝尔	ke lei bei er	100
+空投	kong tou	100
+空投武器	kong tou wu qi	100
+控制模式	kong zhi mo shi	100
+骷髅海镇	ku lou hai zhen	100
+拉枪线	la qiang xian	100
+拉人	la ren	100
+兰伯特	lan bo te	100
+蓝甲	lan jia	100
+猎杀者	lie sha zhe	100
+猎兽冲锋枪	lie shou chong feng qiang	100
+LSTAR	lstar	100
+罗芭	luo ba	100
+落地架	luo di jia	100
+铝热剂	lv re ji	100
+麻雀	ma que	100
+码头	ma tou	100
+密客	mi ke	100
+命脉	ming mai	100
+莫桑比克	mo sang bi ke	100
+能源仓库	neng yuan cang ku	100
+纽卡斯尔	niu ka si er	100
+排位分	pai wei fen	100
+排位赛	pai wei sai	100
+跑圈	pao quan	100
+盆栽	pen zai	100
+匹配赛	pi pei sai	100
+平行步枪	ping xing bu qiang	100
+破片手雷	po pian shou lei	100
+破碎月亮	po sui yue liang	100
+栖息地	qi xi di	100
+枪战	qiang zhan	100
+侵蚀	qin shi	100
+青铜	qing tong	100
+劝架	quan jia	100
+R九十九	r jiu shi jiu	100
+绕后	rao hou	100
+热能护盾	re neng hu dun	100
+赛季分段	sai ji fen duan	100
+散布湖	san bu hu	100
+三重击	san chong ji	100
+三零三零	san ling san ling	100
+三排	san pai	100
+扫描信标	sao miao xin biao	100
+哨兵	shao bing	100
+世界尽头	shi jie jin tou	100
+守点	shou dian	100
+双排	shuang pai	100
+碎片东部	sui pian dong bu	100
+碎片西部	sui pian xi bu	100
+缩圈	suo quan	100
+探路者	tan lu zhe	100
+淘汰	tao tai	100
+天钩	tian gou	100
+跳板	tiao ban	100
+跳点	tiao dian	100
+跳伞队长	tiao san dui zhang	100
+偷背身	tou bei shen	100
+团队死斗	tuan dui si dou	100
+瓦尔基里	wa er ji li	100
+万蒂奇	wan di qi	100
+亡灵	wang ling	100
+沃特森	wo te sen	100
+无人机	wu ren ji	100
+物资箱	wu zi xiang	100
+希尔	xi er	100
+希拉	xi la	100
+相位裂隙	xiang wei lie xi	100
+小帮手	xiao bang shou	100
+小电	xiao dian	100
+辛烷	xin wan	100
+训练场	xun lian chang	100
+寻血猎犬	xun xue lie quan	100
+岩浆虹吸	yan jiang hong xi	100
+烟雾弹	yan wu dan	100
+一打三	yi da san	100
+移动重生信标	yi dong chong sheng xin biao	100
+医疗箱	yi liao xiang	100
+英雄联盟大逃杀	ying xiong lian meng da tao sha	100
+占点	zhan dian	100
+长弓	zhang gong	100
+直布罗陀	zhi bu luo tuo	100
+指挥中心	zhi hui zhong xin	100
+制造器	zhi zao qi	100
+终极促能剂	zhong ji cu neng ji	100
+重力大炮	zhong li da pao	100
+注射器	zhu she qi	100
+诸王峡谷	zhu wang xia gu	100
+转点	zhuan dian	100
+转换者冲锋枪	zhuan huan zhe chong feng qiang	100
+专注轻机枪	zhuan zhu qing ji qiang	100
+紫甲	zi jia	100
+钻石	zuan shi	100

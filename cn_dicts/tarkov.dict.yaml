@@ -1,0 +1,214 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Fork-local curated Escape from Tarkov vocabulary.
+# Maintained in limelisest/rime-ice; see others/docs/Custom-Dictionaries.md.
+# Default weight follows the upstream rime-ice convention.
+#
+---
+name: tarkov
+version: "2026.08.10"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+塔科夫	300	100
+逃离塔科夫	300	100
+阿尔法保险箱	a er fa bao xian xiang	100
+安全箱	an quan xiang	100
+白边	bai bian	100
+白兵楼	bai bing lou	100
+白马楼	bai ma lou	100
+白骑士	bai qi shi	100
+白王楼	bai wang lou	100
+保险箱	bao xian xiang	100
+BEAR	bear	200
+贝塔保险箱	bei ta bao xian xiang	100
+比特币	bi te bi	100
+比特币矿场	bi te bi kuang chang	100
+标准版	biao zhun ban	100
+Boss	boss	100
+藏身处	cang shen chu	100
+超重	chao zhong	100
+撤离	che li	100
+撤离倒计时	che li dao ji shi	100
+撤离点	che li dian	100
+车辆撤离	che liang che li	100
+冲点	chong dian	100
+储备站	chu bei zhan	100
+穿甲弹	chuan jia dan	100
+穿透力	chuan tou li	100
+垂直后坐力	chui zhi hou zuo li	100
+大锤	da chui	100
+大妈	da ma	100
+大圆球	da yuan qiu	100
+代谢	dai xie	100
+弹药箱	dan yao xiang	100
+灯塔	deng ta	100
+灯塔商人	deng ta shang ren	100
+地堡	di bao	100
+地下停车场	di xia ting che chang	100
+地下通道	di xia tong dao	100
+毒蛇	du she	100
+蹲点	dun dian	100
+钝伤	dun shang	100
+俄商	e shang	100
+EFT	eft	250
+Escape from Tarkov	escape from tarkov	300
+发电机	fa dian ji	100
+封烟	feng yan	100
+负重	fu zhong	100
+服装商	fu zhuang shang	100
+伽马保险箱	ga ma bao xian xiang	100
+格鲁哈尔	ge lu ha er	100
+工厂	gong chang	100
+工作台	gong zuo tai	100
+狗牌	gou pai	100
+狗牌包	gou pai bao	100
+购物中心	gou wu zhong xin	100
+故障率	gu zhang lv	100
+归零距离	gui ling ju li	100
+海岸线	hai an xian	100
+海关	hai guan	100
+海关老六点	hai guan lao liu dian	100
+合作撤离	he zuo che li	100
+黑暗边缘	hei an bian yuan	100
+黑边	hei bian	100
+黑兵楼	hei bing lou	100
+黑房	hei fang	100
+黑卡	hei ka	100
+黑马楼	hei ma lou	100
+黑骑士	hei qi shi	100
+黑王楼	hei wang lou	100
+红房	hong fang	100
+红卡	hong ka	100
+护甲插板	hu jia cha ban	100
+护甲等级	hu jia deng ji	100
+换弹	huan dan	100
+黄卡	huang ka	100
+黄卡房	huang ka fang	100
+火车撤离	huo che che li	100
+机库	ji ku	100
+集水器	ji shui qi	100
+机械师	ji xie shi	100
+架点	jia dian	100
+甲伤	jia shang	100
+检视弹匣	jian shi dan xia	100
+检视枪膛	jian shi qiang tang	100
+脚步声	jiao bu sheng	100
+街区	jie qu	100
+经理办公室	jing li ban gong shi	100
+酒柜	jiu gui	100
+旧加油站	jiu jia you zhan	100
+K仓	k cang	100
+卡班	ka ban	100
+卡弹	ka dan	100
+卡拉什	ka la shen	100
+抗压	kang ya	100
+Kappa	kappa	100
+Kappa保险箱	kappa bao xian xiang	100
+空气过滤器	kong qi guo lv qi	100
+口袋版	kou dai ban	100
+骷髅标	ku lou biao	100
+蓝房	lan fang	100
+蓝卡	lan ka	100
+蓝色胶带卡	lan se jiao dai ka	100
+老六	lao liu	100
+雷达	lei da	100
+雷沙拉	lei sha la	100
+立交桥	li jiao qiao	100
+力量	li liang	100
+疗养院	liao yang yuan	100
+鲁布	lu bu	100
+绿房	lv fang	100
+绿卡	lv ka	100
+美商	mei shang	100
+美元	mei yuan	100
+耐久度	nai jiu du	100
+耐力	nai li	100
+鸟眼	niao yan	100
+欧元	ou yuan	100
+帕维尔	pa wei er	100
+叛逆者	pan ni zhe	100
+跑刀	pao dao	100
+跑商	pao shang	100
+PMC	pmc	250
+枪声定位	qiang sheng ding wei	100
+枪械过热	qiang xie guo re	100
+情报文件夹	qing bao wen jian jia	100
+情报中心	qing bao zhong xin	100
+人机	ren ji	100
+人体工学	ren ti gong xue	100
+任务物品	ren wu wu pin	100
+任务线	ren wu xian	100
+肉弹	rou dan	100
+肉伤	rou shang	100
+萨尼塔	sa ni ta	100
+三兄弟	san xiong di	100
+SCAV	scav	250
+SCAV营地	scav ying di	100
+森林	sen lin	100
+商人等级	shang ren deng ji	100
+商人好感	shang ren hao gan	100
+商人信誉	shang ren xin yu	100
+射击场	she ji chang	100
+圣诞树	sheng dan shu	100
+施图曼	shi tu man	100
+实验室	shi yan shi	100
+实验室门卡	shi yan shi men ka	100
+水处理厂	shui chu li chang	100
+水平后坐力	shui ping hou zuo li	100
+死亡掉落	si wang diao luo	100
+搜索技能	sou suo ji neng	100
+宿舍楼	su she lou	100
+宿舍楼三层	su she lou san ceng	100
+碎弹率	sui dan lv	100
+隧道撤离	sui dao che li	100
+塔吉拉	ta ji la	100
+塔科夫街区	ta ke fu jie qu	100
+舔包	tian bao	100
+跳弹概率	tiao dan gai lv	100
+调解人	tiao jie ren	100
+跳蚤市场	tiao zao shi chang	100
+听力	ting li	100
+听声辨位	ting sheng bian wei	100
+通往海关的路	tong wang hai guan de lu	100
+头盔面罩	tou kui mian zhao	100
+USEC	usec	200
+玩家野人	wan jia ye ren	100
+围栏商人	wei lan shang ren	100
+文件包	wen jian bao	100
+文件箱	wen jian xiang	100
+无包撤离	wu bao che li	100
+物品箱	wu pin xiang	100
+武器改装	wu qi gai zhuang	100
+武器箱	wu qi xiang	100
+洗手间	xi shou jian	100
+显卡	xian ka	100
+邪教祭司	xie jiao ji si	100
+邪教徒	xie jiao tu	100
+新加油站	xin jia you zhan	100
+幸运SCAV垃圾箱	xing yun scav la ji xiang	100
+血猎犬	xue lie quan	100
+压弹	ya dan	100
+亚音速弹	ya yin su dan	100
+岩石通道	yan shi tong dao	100
+钥匙包	yao shi bao	100
+耶格	ye ge	100
+曳光弹	ye guang dan	100
+野人	ye ren	100
+医疗站	yi liao zhan	100
+医生	yi sheng	100
+阴人	yin ren	100
+营养部	ying yang bu	100
+游荡者	you dang zhe	100
+预设改枪	yu she gai qiang	100
+炸膛	zha tang	100
+战局	zhan ju	100
+战局时间	zhan ju shi jian	100
+针包	zhen bao	100
+中心区	zhong xin qu	100
+注意力	zhu yi li	100
+装甲列车	zhuang jia lie che	100
+紫卡	zi ka	100
+紫卡房	zi ka fang	100

@@ -6,6 +6,8 @@ recipe:
     完整安装、更新
 install_files: >-
   cn_dicts/*.*
+  *.custom.yaml
+  tcxz_rime_ice.dict.yaml
   en_dicts/*.*
   opencc/*.*
   lua/*.*
